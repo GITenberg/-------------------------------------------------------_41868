@@ -1,0 +1,31 @@
+_repo: '-------------------------------------------------------_41868'
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41868-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Euangelides, Tryphon E.
+    aliases:
+    - Evangelides, Tryphon E.
+    - Evangelidis, Trifon
+    birthdate: 1863
+    deathdate: 1941
+    gutenberg_agent_id: '41403'
+    url: http://www.gutenberg.org/2009/agents/41403
+    wikipedia: http://el.wikipedia.org/wiki/%CE%A4%CF%81%CF%8D%CF%86%CF%89%CE%BD_%CE%95%CF%85%CE%B1%CE%B3%CE%B3%CE%B5%CE%BB%CE%AF%CE%B4%CE%B7%CF%82
+description: ''
+gutenberg_issued: '2013-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41868'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DF'
+- !lcsh 'Greece -- History -- 1821-'
+- !lcsh 'Kapodistrias, Iōannēs Antōniou, 1776-1831'
+title: Ιστορία του Ιωάννου Καποδιστρίου Κυβερνήτου της Ελλάδος
+url: http://www.gutenberg.org/ebooks/41868
