@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41403
     wikipedia: http://el.wikipedia.org/wiki/%CE%A4%CF%81%CF%8D%CF%86%CF%89%CE%BD_%CE%95%CF%85%CE%B1%CE%B3%CE%B3%CE%B5%CE%BB%CE%AF%CE%B4%CE%B7%CF%82
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41868#-------------------------------------------------------
 gutenberg_issued: '2013-01-18'
 gutenberg_type: Text
 identifiers:
